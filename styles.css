@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Paaji+2&display=swap');
+
+body {
+  background-color: #EAEBEE;
+	font-family: 'Baloo Paaji 2', cursive;
+}
+
+.container {
+	margin: 0 auto;
+	width: 800px;
+}
+
+section {
+    background: #fff;
+	min-height: 45vh;
+	margin-top: 20px;
+	border: 2px solid EAEBEE;
+}
+
+h1 {
+	text-transform: uppercase;
+	font-weight: bold;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	font-weight: 600;
+	font-size: .9em;
+	line-height: 16px;
+	color: #222;
+	border-bottom: 1px solid #EAEBEE;
+}
+
+.day-birthday {
+	padding: 10px;
+	float: left;
+}
+
+.day-birthday p {
+	margin-bottom:5px;
+}
+
+.day-birthday span {
+	margin-top:20px;
+	color: #90949c;
+}
+
+.day-persons {
+	float: left;
+}
+
+.day-persons ul li {
+	display: inline;
+	margin-left:5px;
+}
+
+.day-persons ul li img {
+	border-radius: 50%;
+	width: 60px;
+	height: 60px;
+	padding-top: 5px;
+}
+
+.clearfix {
+	clear:both;
+}
+.squares{border-bottom: 1px solid #EAEBEE;}
+.squares ul li{
+    display: inline-block;
+	padding-left:3%;
+	color: white;
+    text-transform: uppercase;
+}
+div.retangulo1{
+width: 150px;
+height: 100px;
+background-color: #4969AD;
+border-radius: 3%;
+}
+div.retangulo2{
+width: 150px;
+height: 100px;
+background-color: #F8DA81;
+border-radius: 3%;
+}
+div.retangulo3{
+width: 150px;
+height: 100px;
+background-color:#E25F6C;
+border-radius: 3%;
+}
+
+div.retangulo4{
+width: 150px;
+height: 100px;
+background-color: #BFC3CA;
+border-radius:3%;
+text-underline-position: above;
+}
+div.mods{
+	
+}
